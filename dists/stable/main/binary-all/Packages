@@ -1,0 +1,17 @@
+Package: glass
+Version: 1.0.0-1
+Architecture: all
+Maintainer: TechyWecky69 <techyisontop@gmail.com>
+Installed-Size: 97
+Depends: python3, python3-requests, python3-bs4, python3-pil, chromium
+Filename: pool/main/g/glass/glass_1.0.0-1_all.deb
+Size: 22672
+MD5sum: 0abe56f7bfe2de80bd01774f96e35c91
+SHA1: 5f28e0c08047991f7639ab82e21fc7a2bc6748c0
+SHA256: 816fd9ba6a7579cb3beefc74cdb0d20b411b40749835f650cd1288c461e376d6
+Section: utils
+Priority: optional
+Description: Turn websites into desktop applications
+ Glass creates lightweight desktop applications from websites.
+ It integrates websites into the Linux desktop environment.
+
